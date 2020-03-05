@@ -1,4 +1,4 @@
-module github.com/dreamerjackson/mathlib
+module github.com/dreamerjackson/mydiv
 
 go 1.13
 
