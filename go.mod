@@ -1,4 +1,4 @@
-module github.com/dreamerjackson/mydiv
+module github.com/dreamerjackson/mydiv/v2
 
 go 1.13
 
